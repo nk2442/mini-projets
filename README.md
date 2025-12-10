@@ -15,11 +15,11 @@ Chaque dossier contient un rapport complet au format Markdown ou Word, avec capt
 
 | Projet | Description |
 |--------|-------------|
-| 🔐 **Bruteforce avec Hydra** | Attaque par force brute sur un formulaire web DVWA, analyse réseau + logs Apache. |
-| 🌐 **HTTP Flood local** | Génération de trafic massif avec ab pour observer saturation réseau (iftop, nethogs, glances). |
-| 🔎 **Scan de vulnérabilités avec Nikto** | Analyse de surface d’attaque du serveur web local, interprétation des failles et headers manquants. |
-| 🧠 **IDS simple avec Scapy** | Système de détection d’intrusion via sniffing ICMP/TCP : detection SYN, FIN, XMAS, Null scan, ICMP Flood. |
-| 🐝 **Mini-Honeypot + Analyse d’évènements** | Déploiement d'un faux service attractif + observation/sauvegarde des événements suspects générés. |
+|  **Bruteforce avec Hydra** | Attaque par force brute sur un formulaire web DVWA, analyse réseau + logs Apache. |
+|  **HTTP Flood local** | Génération de trafic massif avec ab pour observer saturation réseau (iftop, nethogs, glances). |
+|  **Scan de vulnérabilités avec Nikto** | Analyse de surface d’attaque du serveur web local, interprétation des failles et headers manquants. |
+|  **IDS simple avec Scapy** | Système de détection d’intrusion via sniffing ICMP/TCP : detection SYN, FIN, XMAS, Null scan, ICMP Flood. |
+|  **Mini-Honeypot + Analyse d’évènements** | Déploiement d'un faux service attractif + observation/sauvegarde des événements suspects générés. |
 
 ---
 
