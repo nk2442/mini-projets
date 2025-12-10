@@ -9,7 +9,7 @@ Ces projets ont pour but de :
 
 ---
 
-## 📂 Contenu du dépôt
+##  Contenu du dépôt
 
 Chaque dossier contient un rapport complet au format Markdown ou Word, avec captures d’écran, explications des commandes et résultats observés.
 
@@ -23,7 +23,7 @@ Chaque dossier contient un rapport complet au format Markdown ou Word, avec capt
 
 ---
 
-## 🧰 Outils utilisés
+##  Outils utilisés
 
 - `Hydra`, `Nikto`, `Nmap`, `WhatWeb`, `Glances`, `Iftop`, `Nethogs`
 - `Python + Scapy`
@@ -32,7 +32,7 @@ Chaque dossier contient un rapport complet au format Markdown ou Word, avec capt
 
 ---
 
-## 📌 Objectifs pédagogiques
+##  Objectifs pédagogiques
 
 - Comprendre le fonctionnement des attaques courantes (bruteforce, scan, DoS)
 - Apprendre à détecter et analyser les effets de ces attaques
@@ -41,7 +41,7 @@ Chaque dossier contient un rapport complet au format Markdown ou Word, avec capt
 
 ---
 
-## 📄 Licence
+##  Licence
 
 Ces projets sont réalisés à des fins éducatives et n'ont pas vocation à être utilisés en environnement de production.
 
