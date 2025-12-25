@@ -21,7 +21,7 @@ Chaque dossier contient un rapport complet au format Markdown ou Word, avec capt
 |  **IDS simple avec Scapy** | Système de détection d’intrusion via sniffing ICMP/TCP : detection SYN, FIN, XMAS, Null scan, ICMP Flood. |
 |  **Mini-Honeypot + Analyse d’évènements** | Déploiement d'un faux service attractif + observation/sauvegarde des événements suspects générés. |
 | **Analyse de la censure DNS par pays** | Requêtes DNS manuelles avec `dig` sur des serveurs de différents pays pour observer la censure ou les anomalies de résolution. |
-
+|  **Audit de sécurité d’une image Docker** | Scan d’une image locale avec Trivy (CVE) et Dockle (bonnes pratiques Docker), dans une logique DevSecOps. |
 ---
 
 ##  Outils utilisés
