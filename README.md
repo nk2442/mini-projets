@@ -22,6 +22,7 @@ Chaque dossier contient un rapport complet au format Markdown ou Word, avec capt
 |  **Mini-Honeypot + Analyse d’évènements** | Déploiement d'un faux service attractif + observation/sauvegarde des événements suspects générés. |
 | **Analyse de la censure DNS par pays** | Requêtes DNS manuelles avec `dig` sur des serveurs de différents pays pour observer la censure ou les anomalies de résolution. |
 |  **Audit de sécurité d’une image Docker** | Scan d’une image locale avec Trivy (CVE) et Dockle (bonnes pratiques Docker), dans une logique DevSecOps. |
+|  **Déploiement sécurisé avec Ansible** | Playbook Ansible pour installer Apache, désactiver des services inutiles, configurer UFW et créer un utilisateur non-root : automatisation DevSecOps. |
 ---
 
 ##  Outils utilisés
